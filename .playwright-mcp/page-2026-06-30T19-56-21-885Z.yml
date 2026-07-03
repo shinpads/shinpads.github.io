@@ -1,0 +1,1540 @@
+- generic [ref=e8]:
+  - generic [ref=e13]:
+    - complementary [ref=e15]:
+      - generic [ref=e17]:
+        - generic [ref=e19]:
+          - link [ref=e20] [cursor=pointer]:
+            - /url: /
+            - img [ref=e22]
+          - generic [ref=e1805]: Robfarlow@gmail.com's Account
+        - navigation [ref=e28]:
+          - generic [ref=e30]:
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Quick search...
+                        - generic: ⌘K
+                - list:
+                  - listitem:
+                    - link:
+                      - /url: /f29115c48f39bde2b3edbeaed94c0453/home
+                      - generic:
+                        - img
+                        - generic:
+                          - generic: Account home
+                  - listitem:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                          - generic:
+                            - generic: Recents
+                            - img
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com
+                            - generic:
+                              - generic: robfarlow.com
+                              - generic:
+                                - generic: Domains
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                                - img
+                        - listitem:
+                          - link:
+                            - /url: https://one.dash.cloudflare.com/f29115c48f39bde2b3edbeaed94c0453
+                            - generic:
+                              - generic: Zero Trust
+                              - generic:
+                                - generic: Robfarlow@gmail.co…
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                                - img
+                  - listitem:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                          - generic:
+                            - generic: Domains
+                            - img
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/domains/overview
+                            - generic:
+                              - generic: Overview
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/domains/registrations
+                            - generic:
+                              - generic: Registrations
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/domains/transfers
+                            - generic:
+                              - generic: Transfers
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Observe
+                    - list:
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Investigate
+                                - img
+                          - list:
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Log Explorer
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/log-explorer/log-search
+                                    - generic:
+                                      - generic: Log search
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/trace
+                                - generic:
+                                  - generic: Trace
+                                  - generic:
+                                    - generic: Beta
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/logs
+                                - generic:
+                                  - generic: Logpush
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Analytics
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/dashboards
+                                - generic:
+                                  - generic: Dashboards
+                                  - generic:
+                                    - generic: New
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/analytics
+                                - generic:
+                                  - generic: Account analytics
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/web-analytics
+                                - generic:
+                                  - generic: Web analytics
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Build
+                    - list:
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Compute
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers-and-pages
+                                - generic:
+                                  - generic: Workers & Pages
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/observability
+                                - generic:
+                                  - generic: Observability
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers-for-platforms
+                                - generic:
+                                  - generic: Workers for Platforms
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/containers
+                                - generic:
+                                  - generic: Containers
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/durable-objects
+                                - generic:
+                                  - generic: Durable Objects
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/queues
+                                - generic:
+                                  - generic: Queues
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/workflows
+                                - generic:
+                                  - generic: Workflows
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/browser-run
+                                - generic:
+                                  - generic: Browser Run
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/vpc
+                                - generic:
+                                  - generic: VPC
+                                  - generic:
+                                    - generic: Beta
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Email Service
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/email-service/sending
+                                    - generic:
+                                      - generic: Email Sending
+                                      - generic:
+                                        - generic: Beta
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/email-service/routing
+                                    - generic:
+                                      - generic: Email Routing
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/plans
+                                - generic:
+                                  - generic: Workers plans
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/flagship
+                                - generic:
+                                  - generic: Flagship
+                                  - generic:
+                                    - generic: Beta
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: AI
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/ai/models
+                                - generic:
+                                  - generic: Models
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/ai/workers-ai
+                                - generic:
+                                  - generic: Workers AI
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/ai/ai-gateway
+                                - generic:
+                                  - generic: AI Gateway
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/ai/vectorize
+                                - generic:
+                                  - generic: Vectorize
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/ai/ai-search
+                                - generic:
+                                  - generic: AI Search
+                                  - generic:
+                                    - generic: Beta
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Storage & databases
+                                - img
+                          - list:
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: R2 Object Storage
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/r2/overview
+                                    - generic:
+                                      - generic: Overview
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/r2/slurper
+                                    - generic:
+                                      - generic: Data migration
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/data-catalog
+                                - generic:
+                                  - generic: R2 Data Catalog
+                                  - generic:
+                                    - generic: Beta
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/hyperdrive
+                                - generic:
+                                  - generic: Postgres & MySQL (Hyperdrive)
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/kv/namespaces
+                                - generic:
+                                  - generic: Workers KV
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/d1
+                                - generic:
+                                  - generic: D1 SQLite Database
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/workers/analytics-engine
+                                - generic:
+                                  - generic: Analytics Engine
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Pipelines
+                                    - generic:
+                                      - generic: Beta
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/pipelines/overview
+                                    - generic:
+                                      - generic: Pipelines
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/secrets-store
+                                - generic:
+                                  - generic: Secrets Store
+                                  - generic:
+                                    - generic: New
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Media
+                                - img
+                          - list:
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Stream
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/stream/plans
+                                    - generic:
+                                      - generic: Plans
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Images
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/images/transformations
+                                    - generic:
+                                      - generic: Transformations
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/images/hosted
+                                    - generic:
+                                      - generic: Hosted images
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/images/plans
+                                    - generic:
+                                      - generic: Plans
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Realtime
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/realtime/kit
+                                    - generic:
+                                      - generic: RealtimeKit
+                                      - generic:
+                                        - generic: Beta
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/realtime/turn
+                                    - generic:
+                                      - generic: TURN Server
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/realtime/sfu
+                                    - generic:
+                                      - generic: Serverless SFU
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/realtime/moq
+                                    - generic:
+                                      - generic: MoQ Relay
+                                      - generic:
+                                        - generic: Beta
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Protect & Connect
+                    - list:
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Application security
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/security-center
+                                - generic:
+                                  - generic: Security insights
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/application-security/waf
+                                - generic:
+                                  - generic: WAF
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/application-security/investigate
+                                - generic:
+                                  - generic: Investigate
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/security-center/inventory
+                                - generic:
+                                  - generic: Infrastructure
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/turnstile
+                                - generic:
+                                  - generic: Turnstile
+                      - listitem:
+                        - link:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/zero-trust/landing-page
+                          - generic:
+                            - img
+                            - generic:
+                              - generic: Zero Trust
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Networking
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/magic-networks/overview
+                                - generic:
+                                  - generic: Overview
+                                  - generic:
+                                    - generic: New
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Insights
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/networking-insights/analytics/network-analytics/flow-analytics
+                                    - generic:
+                                      - generic: Network flow
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/tunnels
+                                - generic:
+                                  - generic: Tunnels
+                                  - generic:
+                                    - generic: New
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/mesh
+                                - generic:
+                                  - generic: Mesh
+                                  - generic:
+                                    - generic: Beta
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/magic-networks/routes
+                                - generic:
+                                  - generic: Routes
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: IP addresses
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/ip-addresses/address-space
+                                    - generic:
+                                      - generic: Address space
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/ip-addresses/proxy-ips
+                                    - generic:
+                                      - generic: Address maps
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Delivery & performance
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/bulk-redirects
+                                - generic:
+                                  - generic: Bulk redirects
+                            - listitem:
+                              - link:
+                                - /url: /f29115c48f39bde2b3edbeaed94c0453/load-balancing
+                                - generic:
+                                  - generic: Load Balancing
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Web tag management
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/tag-management/zaraz
+                                    - generic:
+                                      - generic: Tag setup
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/tag-management/consent
+                                    - generic:
+                                      - generic: Consent
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/tag-management/history
+                                    - generic:
+                                      - generic: History
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/tag-management/monitoring
+                                    - generic:
+                                      - generic: Monitoring
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/tag-management/settings
+                                    - generic:
+                                      - generic: Settings
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/tag-management/plans
+                                    - generic:
+                                      - generic: Zaraz plans
+                                - listitem:
+                                  - link:
+                                    - /url: /f29115c48f39bde2b3edbeaed94c0453/tag-management/google-tag-gateway
+                                    - generic:
+                                      - generic: Google Tag Gateway
+                  - listitem:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                          - generic:
+                            - generic: Manage account
+                            - img
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/members
+                            - generic:
+                              - generic: Members
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/billing
+                            - generic:
+                              - generic: Billing
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/api-tokens
+                            - generic:
+                              - generic: Account API tokens
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/oauth-clients
+                            - generic:
+                              - generic: OAuth clients
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/audit-log
+                            - generic:
+                              - generic: Audit logs
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/notifications
+                            - generic:
+                              - generic: Notifications
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/shared-configurations
+                            - generic:
+                              - generic: Shared config
+                              - generic:
+                                - generic: Alpha
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/blocked-content
+                            - generic:
+                              - generic: Blocked content
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/abuse-reports
+                            - generic:
+                              - generic: Abuse reports
+                              - generic:
+                                - generic: Beta
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/carbon
+                            - generic:
+                              - generic: Carbon Impact Report
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/configurations
+                            - generic:
+                              - generic: Configurations
+                        - listitem:
+                          - link:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/tags
+                            - generic:
+                              - generic: Tagged Resources
+                              - generic:
+                                - generic: Beta
+            - generic [ref=e32]:
+              - button [ref=e1806] [cursor=pointer]:
+                - generic [ref=e36]:
+                  - img [ref=e37]
+                  - generic [ref=e39]: Quick search...
+                  - generic [ref=e40]: ⌘K
+              - link [ref=e1807] [cursor=pointer]:
+                - /url: /f29115c48f39bde2b3edbeaed94c0453/domains/overview
+                - generic [ref=e43]:
+                  - img [ref=e44]
+                  - generic [ref=e46]: Back to Domains
+              - list [ref=e49]:
+                - listitem [ref=e50]:
+                  - link [ref=e1808] [cursor=pointer]:
+                    - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/
+                    - generic [ref=e52]:
+                      - img [ref=e1748]
+                      - generic [ref=e57]: Overview
+                - listitem [ref=e58]:
+                  - generic [ref=e59]:
+                    - button [ref=e1809] [cursor=pointer]:
+                      - generic [ref=e61]:
+                        - img [ref=e1751]
+                        - generic [ref=e65]:
+                          - generic [ref=e66]: Recents
+                          - img [ref=e67]
+                    - list [ref=e69]:
+                      - listitem [ref=e71]:
+                        - link [ref=e72] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com
+                          - generic [ref=e73]:
+                            - generic [ref=e74]: robfarlow.com
+                            - generic [ref=e76]: Domains
+                        - button [ref=e78] [cursor=pointer]:
+                          - generic [ref=e79]:
+                            - img [ref=e80]
+                            - img [ref=e85]
+                      - listitem [ref=e87]:
+                        - link [ref=e88] [cursor=pointer]:
+                          - /url: https://one.dash.cloudflare.com/f29115c48f39bde2b3edbeaed94c0453
+                          - generic [ref=e89]:
+                            - generic [ref=e90]: Zero Trust
+                            - generic [ref=e92]: Robfarlow@gmail.co…
+                        - button [ref=e94] [cursor=pointer]:
+                          - generic [ref=e95]:
+                            - img [ref=e96]
+                            - img [ref=e101]
+                - listitem [ref=e103]:
+                  - generic [ref=e104]:
+                    - button [ref=e1810] [cursor=pointer]:
+                      - generic [ref=e106]:
+                        - img [ref=e1754]
+                        - generic [ref=e110]:
+                          - generic [ref=e111]: AI Crawl Control
+                          - img [ref=e112]
+                    - list [ref=e114]:
+                      - listitem [ref=e116]:
+                        - link [ref=e117] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ai/overview
+                          - generic [ref=e119]: Overview
+                      - listitem [ref=e120]:
+                        - link [ref=e121] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ai/metrics
+                          - generic [ref=e123]: Metrics
+                      - listitem [ref=e124]:
+                        - link [ref=e125] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ai/security
+                          - generic [ref=e127]: Security
+                      - listitem [ref=e128]:
+                        - link [ref=e129] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ai/optimization
+                          - generic [ref=e130]:
+                            - generic [ref=e131]: Optimization
+                            - generic [ref=e133]: New
+                      - listitem [ref=e134]:
+                        - link [ref=e135] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ai/signals
+                          - generic [ref=e137]: Signals
+                - listitem [ref=e138]:
+                  - generic [ref=e139]:
+                    - button [ref=e1811] [cursor=pointer]:
+                      - generic [ref=e141]:
+                        - img [ref=e1757]
+                        - generic [ref=e145]:
+                          - generic [ref=e146]: Investigate
+                          - img [ref=e147]
+                    - list [ref=e149]:
+                      - generic [ref=e151]:
+                        - listitem [ref=e152]:
+                          - button [ref=e153] [cursor=pointer]:
+                            - generic [ref=e154]:
+                              - generic [ref=e155]: Log Explorer
+                              - img [ref=e156]
+                        - list [ref=e158]:
+                          - listitem [ref=e160]:
+                            - link [ref=e161] [cursor=pointer]:
+                              - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/log-explorer/log-search
+                              - generic [ref=e163]: Log search
+                      - listitem [ref=e164]:
+                        - link [ref=e165] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/rules/trace/search
+                          - generic [ref=e166]:
+                            - generic [ref=e167]: Trace
+                            - generic [ref=e169]: Beta
+                      - listitem [ref=e170]:
+                        - link [ref=e171] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/analytics/logs
+                          - generic [ref=e173]: Logpush
+                - listitem [ref=e174]:
+                  - generic [ref=e175]:
+                    - button [ref=e1812] [cursor=pointer]:
+                      - generic [ref=e177]:
+                        - img [ref=e1760]
+                        - generic [ref=e181]:
+                          - generic [ref=e182]: Analytics
+                          - img [ref=e183]
+                    - list [ref=e185]:
+                      - listitem [ref=e187]:
+                        - link [ref=e188] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/dashboards
+                          - generic [ref=e189]:
+                            - generic [ref=e190]: Dashboards
+                            - generic [ref=e192]: New
+                      - listitem [ref=e193]:
+                        - link [ref=e194] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/analytics/traffic
+                          - generic [ref=e196]: HTTP Traffic
+                      - listitem [ref=e197]:
+                        - link [ref=e198] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/analytics/web/overview
+                          - generic [ref=e200]: Web analytics
+                      - listitem [ref=e201]:
+                        - link [ref=e202] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/analytics/performance
+                          - generic [ref=e204]: Performance
+                      - listitem [ref=e205]:
+                        - link [ref=e206] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/analytics/workers
+                          - generic [ref=e208]: Workers
+                - listitem [ref=e209]:
+                  - generic [ref=e210]:
+                    - button [expanded] [ref=e1813] [cursor=pointer]:
+                      - generic [ref=e212]:
+                        - img [ref=e1763]
+                        - generic [ref=e215]:
+                          - generic [ref=e216]: DNS
+                          - img [ref=e217]
+                    - region [ref=e219]:
+                      - list [ref=e221]:
+                        - listitem [ref=e223]:
+                          - link [ref=e1814] [cursor=pointer]:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/dns/records
+                            - generic [ref=e226]: Records
+                        - listitem [ref=e227]:
+                          - link [ref=e1815] [cursor=pointer]:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/dns/analytics
+                            - generic [ref=e230]: Analytics
+                        - listitem [ref=e231]:
+                          - link [ref=e1816] [cursor=pointer]:
+                            - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/dns/settings
+                            - generic [ref=e234]: Settings
+                - listitem [ref=e235]:
+                  - generic [ref=e236]:
+                    - button [ref=e1817] [cursor=pointer]:
+                      - generic [ref=e238]:
+                        - img [ref=e1765]
+                        - generic [ref=e243]:
+                          - generic [ref=e244]: Email
+                          - img [ref=e245]
+                    - list [ref=e247]:
+                      - listitem [ref=e249]:
+                        - link [ref=e250] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/email/routing
+                          - generic [ref=e252]: Email Routing
+                      - listitem [ref=e253]:
+                        - link [ref=e254] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/email/dmarc-management
+                          - generic [ref=e256]: DMARC Management
+                      - listitem [ref=e257]:
+                        - link [ref=e258] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/email/security
+                          - generic [ref=e260]: Email Security
+                - listitem [ref=e261]:
+                  - generic [ref=e262]:
+                    - button [ref=e1818] [cursor=pointer]:
+                      - generic [ref=e264]:
+                        - img [ref=e1769]
+                        - generic [ref=e268]:
+                          - generic [ref=e269]: SSL/TLS
+                          - img [ref=e270]
+                    - list [ref=e272]:
+                      - listitem [ref=e274]:
+                        - link [ref=e275] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ssl-tls
+                          - generic [ref=e277]: Overview
+                      - listitem [ref=e278]:
+                        - link [ref=e279] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ssl-tls/edge-certificates
+                          - generic [ref=e281]: Edge Certificates
+                      - listitem [ref=e282]:
+                        - link [ref=e283] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ssl-tls/client-certificates
+                          - generic [ref=e285]: Client Certificates
+                      - listitem [ref=e286]:
+                        - link [ref=e287] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ssl-tls/origin
+                          - generic [ref=e289]: Origin Server
+                      - listitem [ref=e290]:
+                        - link [ref=e291] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/ssl-tls/custom-hostnames
+                          - generic [ref=e293]: Custom Hostnames
+                - listitem [ref=e294]:
+                  - generic [ref=e295]:
+                    - button [ref=e1819] [cursor=pointer]:
+                      - generic [ref=e297]:
+                        - img [ref=e1772]
+                        - generic [ref=e300]:
+                          - generic [ref=e301]: Security
+                          - img [ref=e302]
+                    - list [ref=e304]:
+                      - listitem [ref=e306]:
+                        - link [ref=e307] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/security/overview
+                          - generic [ref=e309]: Overview
+                      - listitem [ref=e310]:
+                        - link [ref=e311] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/security/analytics
+                          - generic [ref=e313]: Analytics
+                      - listitem [ref=e314]:
+                        - link [ref=e315] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/security/web-assets
+                          - generic [ref=e317]: Web assets
+                      - listitem [ref=e318]:
+                        - link [ref=e319] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/security/security-rules
+                          - generic [ref=e321]: Security rules
+                      - listitem [ref=e322]:
+                        - link [ref=e323] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/security/settings
+                          - generic [ref=e325]: Settings
+                - listitem [ref=e326]:
+                  - link [ref=e1820] [cursor=pointer]:
+                    - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/access
+                    - generic [ref=e328]:
+                      - img [ref=e1774]
+                      - generic [ref=e333]: Access
+                - listitem [ref=e334]:
+                  - generic [ref=e335]:
+                    - button [ref=e1821] [cursor=pointer]:
+                      - generic [ref=e337]:
+                        - img [ref=e1777]
+                        - generic [ref=e340]:
+                          - generic [ref=e341]: Speed
+                          - img [ref=e342]
+                    - list [ref=e344]:
+                      - listitem [ref=e346]:
+                        - link [ref=e347] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/speed
+                          - generic [ref=e348]:
+                            - generic [ref=e349]: Observatory
+                            - generic [ref=e351]: Beta
+                      - listitem [ref=e352]:
+                        - link [ref=e353] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/speed/origin-analytics
+                          - generic [ref=e355]: Origin Analytics
+                      - listitem [ref=e356]:
+                        - link [ref=e357] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/speed/rum
+                          - generic [ref=e359]: Real user monitoring
+                      - listitem [ref=e360]:
+                        - link [ref=e361] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/speed/test
+                          - generic [ref=e362]:
+                            - generic [ref=e363]: Synthetic monitoring
+                            - generic [ref=e365]: Beta
+                      - listitem [ref=e366]:
+                        - link [ref=e367] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/speed/optimization
+                          - generic [ref=e369]: Settings
+                      - listitem [ref=e370]:
+                        - link [ref=e371] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/speed/smart-shield
+                          - generic [ref=e373]: Smart Shield
+                - listitem [ref=e374]:
+                  - generic [ref=e375]:
+                    - button [ref=e1822] [cursor=pointer]:
+                      - generic [ref=e377]:
+                        - img [ref=e1779]
+                        - generic [ref=e383]:
+                          - generic [ref=e384]: Caching
+                          - img [ref=e385]
+                    - list [ref=e387]:
+                      - listitem [ref=e389]:
+                        - link [ref=e390] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/caching
+                          - generic [ref=e392]: Overview
+                      - listitem [ref=e393]:
+                        - link [ref=e394] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/caching/configuration
+                          - generic [ref=e396]: Configuration
+                      - listitem [ref=e397]:
+                        - link [ref=e398] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/caching/cache-rules
+                          - generic [ref=e400]: Cache Rules
+                      - listitem [ref=e401]:
+                        - link [ref=e402] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/caching/tiered-cache
+                          - generic [ref=e404]: Tiered Cache
+                      - listitem [ref=e405]:
+                        - link [ref=e406] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/caching/cache-reserve
+                          - generic [ref=e408]: Cache Reserve
+                - listitem [ref=e409]:
+                  - link [ref=e1823] [cursor=pointer]:
+                    - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/workers
+                    - generic [ref=e411]:
+                      - img [ref=e1784]
+                      - generic [ref=e417]: Workers Routes
+                - listitem [ref=e418]:
+                  - generic [ref=e419]:
+                    - button [ref=e1824] [cursor=pointer]:
+                      - generic [ref=e421]:
+                        - img [ref=e1788]
+                        - generic [ref=e425]:
+                          - generic [ref=e426]: Rules
+                          - img [ref=e427]
+                    - list [ref=e429]:
+                      - listitem [ref=e431]:
+                        - link [ref=e432] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/rules/overview
+                          - generic [ref=e434]: Overview
+                      - listitem [ref=e435]:
+                        - link [ref=e436] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/rules/snippets
+                          - generic [ref=e438]: Snippets
+                      - listitem [ref=e439]:
+                        - link [ref=e440] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/rules/cloud-connector
+                          - generic [ref=e441]:
+                            - generic [ref=e442]: Cloud Connector
+                            - generic [ref=e444]: Beta
+                      - listitem [ref=e445]:
+                        - link [ref=e446] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/rules/page-rules
+                          - generic [ref=e448]: Page Rules
+                      - listitem [ref=e449]:
+                        - link [ref=e450] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/rules/settings
+                          - generic [ref=e452]: Settings
+                - listitem [ref=e453]:
+                  - link [ref=e1825] [cursor=pointer]:
+                    - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/error-pages
+                    - generic [ref=e455]:
+                      - img [ref=e1791]
+                      - generic [ref=e459]:
+                        - generic [ref=e460]: Error Pages
+                        - generic [ref=e462]: New
+                - listitem [ref=e463]:
+                  - link [ref=e1826] [cursor=pointer]:
+                    - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/network
+                    - generic [ref=e465]:
+                      - img [ref=e1794]
+                      - generic [ref=e470]: Network
+                - listitem [ref=e471]:
+                  - generic [ref=e472]:
+                    - button [ref=e1827] [cursor=pointer]:
+                      - generic [ref=e474]:
+                        - img [ref=e1797]
+                        - generic [ref=e477]:
+                          - generic [ref=e478]: Traffic
+                          - img [ref=e479]
+                    - list [ref=e481]:
+                      - listitem [ref=e483]:
+                        - link [ref=e484] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/traffic
+                          - generic [ref=e486]: Argo Smart Routing
+                      - listitem [ref=e487]:
+                        - link [ref=e488] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/traffic/load-balancing
+                          - generic [ref=e490]: Load Balancing
+                      - listitem [ref=e491]:
+                        - link [ref=e492] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/traffic/load-balancing-analytics
+                          - generic [ref=e494]: Load Balancing Analytics
+                      - listitem [ref=e495]:
+                        - link [ref=e496] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/traffic/health-checks
+                          - generic [ref=e498]: Health Checks
+                      - listitem [ref=e499]:
+                        - link [ref=e500] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/traffic/waiting-rooms
+                          - generic [ref=e502]: Waiting Room
+                - listitem [ref=e503]:
+                  - link [ref=e1828] [cursor=pointer]:
+                    - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/web3
+                    - generic [ref=e505]:
+                      - img [ref=e1799]
+                      - generic [ref=e510]: Web3
+                - listitem [ref=e513]:
+                  - generic [ref=e514]:
+                    - button [ref=e1829] [cursor=pointer]:
+                      - generic [ref=e516]:
+                        - img [ref=e1802]
+                        - generic [ref=e520]:
+                          - generic [ref=e521]: Manage account
+                          - img [ref=e522]
+                    - list [ref=e524]:
+                      - listitem [ref=e526]:
+                        - link [ref=e527] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/members
+                          - generic [ref=e529]: Members
+                      - listitem [ref=e530]:
+                        - link [ref=e531] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/billing
+                          - generic [ref=e533]: Billing
+                      - listitem [ref=e534]:
+                        - link [ref=e535] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/api-tokens
+                          - generic [ref=e537]: Account API tokens
+                      - listitem [ref=e538]:
+                        - link [ref=e539] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/audit-log
+                          - generic [ref=e541]: Audit logs
+                      - listitem [ref=e542]:
+                        - link [ref=e543] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/notifications
+                          - generic [ref=e545]: Notifications
+                      - listitem [ref=e546]:
+                        - link [ref=e547] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/shared-configurations
+                          - generic [ref=e548]:
+                            - generic [ref=e549]: Shared config
+                            - generic [ref=e551]: Alpha
+                      - listitem [ref=e552]:
+                        - link [ref=e553] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/blocked-content
+                          - generic [ref=e555]: Blocked content
+                      - listitem [ref=e556]:
+                        - link [ref=e557] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/abuse-reports
+                          - generic [ref=e558]:
+                            - generic [ref=e559]: Abuse reports
+                            - generic [ref=e561]: Beta
+                      - listitem [ref=e562]:
+                        - link [ref=e563] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/carbon
+                          - generic [ref=e565]: Carbon Impact Report
+                      - listitem [ref=e566]:
+                        - link [ref=e567] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/configurations
+                          - generic [ref=e569]: Configurations
+                      - listitem [ref=e570]:
+                        - link [ref=e571] [cursor=pointer]:
+                          - /url: /f29115c48f39bde2b3edbeaed94c0453/tags
+                          - generic [ref=e572]:
+                            - generic [ref=e573]: Tagged Resources
+                            - generic [ref=e575]: Beta
+        - button [expanded] [ref=e1830] [cursor=pointer]:
+          - img [ref=e581]
+    - generic [ref=e583]:
+      - banner [ref=e584]:
+        - generic [ref=e585]:
+          - button [ref=e1831] [cursor=pointer]:
+            - img [ref=e587]
+          - generic [ref=e590] [cursor=pointer]:
+            - generic [ref=e591]:
+              - paragraph [ref=e592]: robfarlow.com
+              - button [ref=e1832]:
+                - generic [ref=e594]: free
+            - img [ref=e595]
+        - generic [ref=e597]:
+          - button [ref=e1833] [cursor=pointer]:
+            - img [ref=e599]
+            - generic [ref=e602]: Ask AI
+          - link [ref=e1834] [cursor=pointer]:
+            - /url: /?to=/:account/support
+            - img [ref=e604]
+            - generic [ref=e606]: Support
+          - button [ref=e1835] [cursor=pointer]:
+            - img [ref=e608]
+      - generic [ref=e611]:
+        - banner [ref=e612]:
+          - generic [ref=e613]:
+            - generic [ref=e614]:
+              - heading [level=1] [ref=e1836]: DNS records for robfarlow.com
+              - paragraph [ref=e617]: Manage how the Internet finds your web content, verifies services, and routes traffic.
+            - generic [ref=e618]:
+              - generic [ref=e620]:
+                - text: "DNS Setup:"
+                - generic [ref=e621]: Full
+              - link [ref=e1837] [cursor=pointer]:
+                - /url: https://developers.cloudflare.com/dns/get-started/
+                - img [ref=e623]
+                - text: DNS documentation
+        - generic [ref=e625]:
+          - generic [ref=e626]:
+            - generic [ref=e1662]:
+              - img [ref=e1664]
+              - generic [ref=e1666]:
+                - generic [ref=e1667]:
+                  - paragraph [ref=e1668]: Proxying is required for most security and performance features
+                  - generic [ref=e1669]:
+                    - text: Set your DNS records to
+                    - strong [ref=e1670]: proxied
+                    - text: by clicking "Edit" in the table below, to benefit from DDoS protection, security rules, caching, and more.
+                - button [ref=e1838] [cursor=pointer]:
+                  - img [ref=e1674]
+            - generic [ref=e627]:
+              - button [ref=e1839] [cursor=pointer]:
+                - generic [ref=e630]:
+                  - generic [ref=e632]:
+                    - paragraph [ref=e633]: Recommendations
+                    - generic [ref=e634]: "1"
+                  - img [ref=e635]
+              - generic [ref=e643]:
+                - generic [ref=e644]: Block fake emails sent from @robfarlow.com addresses
+                - generic [ref=e645]:
+                  - link [ref=e1840] [cursor=pointer]:
+                    - /url: /f29115c48f39bde2b3edbeaed94c0453/robfarlow.com/email/dmarc-management
+                    - text: Add a DMARC record
+                  - text: so your email provider can stop fake emails from reaching inboxes.
+          - generic [ref=e648]:
+            - generic [ref=e649]:
+              - generic [ref=e650]:
+                - img [ref=e651]
+                - searchbox [ref=e1841]
+              - button [ref=e1842] [cursor=pointer]:
+                - generic [ref=e655]:
+                  - img [ref=e656]
+                  - text: Filters
+              - button [ref=e1843] [cursor=pointer]:
+                - img [ref=e659]
+                - text: Display options
+            - generic [ref=e662]:
+              - button [ref=e1844] [cursor=pointer]:
+                - generic [ref=e664]:
+                  - img [ref=e665]
+                  - text: Import
+              - button [ref=e1845] [cursor=pointer]:
+                - generic [ref=e668]:
+                  - img [ref=e669]
+                  - text: Export
+              - button [ref=e1846] [cursor=pointer]:
+                - img [ref=e672]
+                - text: Add record
+          - generic [ref=e674]:
+            - paragraph [ref=e678]: 6 records
+            - table [ref=e1847]:
+              - rowgroup [ref=e682]:
+                - row [ref=e1848]:
+                  - columnheader [ref=e1849]:
+                    - checkbox [ref=e1850] [cursor=pointer]
+                    - checkbox [ref=e686]
+                  - columnheader [ref=e687]:
+                    - img [ref=e1677]
+                  - columnheader [ref=e692]:
+                    - img [ref=e1680]
+                  - columnheader [ref=e1851]:
+                    - generic [ref=e698]:
+                      - generic [ref=e1682]:
+                        - generic [ref=e1683]: Name
+                        - img [ref=e1685]
+                      - button [ref=e1852] [cursor=pointer]:
+                        - img [ref=e705]
+                    - button [ref=e1853]
+                  - columnheader [ref=e1854]:
+                    - generic [ref=e710]:
+                      - generic [ref=e1687]:
+                        - generic [ref=e1688]: Type
+                        - img [ref=e1690]
+                      - button [ref=e1855] [cursor=pointer]:
+                        - img [ref=e717]
+                  - columnheader [ref=e1856]:
+                    - generic [ref=e720]:
+                      - generic [ref=e1692]:
+                        - generic [ref=e1693]: Content
+                        - img [ref=e1695]
+                      - button [ref=e1857] [cursor=pointer]:
+                        - img [ref=e727]
+                    - button [ref=e1858]
+                  - columnheader [ref=e1859]:
+                    - generic [ref=e732]:
+                      - generic [ref=e1697]:
+                        - generic [ref=e1698]: Proxy status
+                        - img [ref=e1700]
+                      - button [ref=e1860] [cursor=pointer]:
+                        - img [ref=e739]
+                  - columnheader [ref=e1861]:
+                    - generic [ref=e742]:
+                      - generic [ref=e1702]:
+                        - generic [ref=e1703]: TTL
+                        - img [ref=e1705]
+                      - button [ref=e1862] [cursor=pointer]:
+                        - img [ref=e749]
+                  - columnheader [ref=e1863]:
+                    - generic [ref=e1708]: Tags
+                    - button [ref=e1864]
+                  - columnheader [ref=e1865]:
+                    - generic [ref=e1710]: Comment
+                    - button [ref=e1866]
+                  - columnheader [ref=e1867]:
+                    - generic [ref=e1712]: Details
+                    - button [ref=e1868]
+                  - columnheader [ref=e769]
+              - rowgroup [ref=e771]:
+                - row [ref=e1869]:
+                  - cell [ref=e1870]:
+                    - checkbox [ref=e1871] [cursor=pointer]
+                    - checkbox [ref=e775]
+                  - cell [ref=e1872]:
+                    - button [ref=e1873] [cursor=pointer]:
+                      - img [ref=e1715]
+                  - cell [ref=e780]
+                  - cell [ref=e1874]:
+                    - generic [ref=e1875]: robfarlow.com
+                  - cell [ref=e1876]:
+                    - generic [ref=e1719]: A
+                  - cell [ref=e1878]:
+                    - generic [ref=e1879]: 185.199.108.153
+                  - cell [ref=e1880]:
+                    - generic [ref=e1724]:
+                      - img [ref=e1725]
+                      - generic [ref=e1727]: DNS only
+                  - cell [ref=e1881]:
+                    - generic [ref=e1728]: Auto
+                  - cell [ref=e1882]:
+                    - generic [ref=e1729]: —
+                  - cell [ref=e1883]:
+                    - generic [ref=e1730]: —
+                  - cell [ref=e1884]:
+                    - generic [ref=e1731]: —
+                  - cell [ref=e1885]:
+                    - button [ref=e1886] [cursor=pointer]: Edit
+                - row [ref=e1887]:
+                  - cell [ref=e1888]:
+                    - checkbox [ref=e1889] [cursor=pointer]
+                    - checkbox [ref=e808]
+                  - cell [ref=e1890]:
+                    - button [ref=e1891] [cursor=pointer]:
+                      - img [ref=e811]
+                  - cell [ref=e813]
+                  - cell [ref=e1892]:
+                    - generic [ref=e1893]:
+                      - text: www
+                      - generic [ref=e816]: .robfarlow.com
+                  - cell [ref=e1894]:
+                    - generic [ref=e819]: CNAME
+                  - cell [ref=e1896]:
+                    - generic [ref=e1897]: external.notion.site
+                  - cell [ref=e1898]:
+                    - generic [ref=e824]:
+                      - img [ref=e825]
+                      - generic [ref=e827]: DNS only
+                  - cell [ref=e1899]:
+                    - generic [ref=e829]: Auto
+                  - cell [ref=e1900]:
+                    - generic [ref=e831]: —
+                  - cell [ref=e1901]:
+                    - generic [ref=e833]: —
+                  - cell [ref=e1902]:
+                    - generic [ref=e835]: —
+                  - cell [ref=e1903]:
+                    - button [ref=e1904] [cursor=pointer]: Edit
+                - row [ref=e1905]:
+                  - cell [ref=e1906]:
+                    - checkbox [ref=e1907] [cursor=pointer]
+                    - checkbox [ref=e842]
+                  - cell [ref=e1908]:
+                    - button [ref=e1909] [cursor=pointer]:
+                      - img [ref=e845]
+                  - cell [ref=e847]
+                  - cell [ref=e1910]:
+                    - generic [ref=e1911]:
+                      - text: "*"
+                      - generic [ref=e850]: .robfarlow.com
+                  - cell [ref=e1912]:
+                    - generic [ref=e853]: MX
+                  - cell [ref=e1914]:
+                    - generic [ref=e1915]: mx.robfarlow.com
+                  - cell [ref=e1916]:
+                    - generic [ref=e859]: DNS only
+                  - cell [ref=e1917]:
+                    - generic [ref=e861]: Auto
+                  - cell [ref=e1918]:
+                    - generic [ref=e863]: —
+                  - cell [ref=e1919]:
+                    - generic [ref=e865]: —
+                  - cell [ref=e1920]:
+                    - generic [ref=e869] [cursor=pointer]:
+                      - img [ref=e870]
+                      - text: "30"
+                  - cell [ref=e1921]:
+                    - button [ref=e1922] [cursor=pointer]: Edit
+                - row [ref=e1923]:
+                  - cell [ref=e1924]:
+                    - checkbox [ref=e1925] [cursor=pointer]
+                    - checkbox [ref=e881]
+                  - cell [ref=e1926]:
+                    - button [ref=e1927] [cursor=pointer]:
+                      - img [ref=e884]
+                  - cell [ref=e886]
+                  - cell [ref=e1928]:
+                    - generic [ref=e1929]: robfarlow.com
+                  - cell [ref=e1930]:
+                    - generic [ref=e891]: MX
+                  - cell [ref=e1932]:
+                    - generic [ref=e1933]: mx.robfarlow.com
+                  - cell [ref=e1934]:
+                    - generic [ref=e897]: DNS only
+                  - cell [ref=e1935]:
+                    - generic [ref=e899]: Auto
+                  - cell [ref=e1936]:
+                    - generic [ref=e901]: —
+                  - cell [ref=e1937]:
+                    - generic [ref=e903]: —
+                  - cell [ref=e1938]:
+                    - generic [ref=e907] [cursor=pointer]:
+                      - img [ref=e908]
+                      - text: "30"
+                  - cell [ref=e1939]:
+                    - button [ref=e1940] [cursor=pointer]: Edit
+                - row [ref=e1941]:
+                  - cell [ref=e1942]:
+                    - checkbox [ref=e1943] [cursor=pointer]
+                    - checkbox [ref=e919]
+                  - cell [ref=e1944]:
+                    - button [ref=e1945] [cursor=pointer]:
+                      - img [ref=e922]
+                  - cell [ref=e924]
+                  - cell [ref=e1946]:
+                    - generic [ref=e1947]:
+                      - text: _notion-dcv.www
+                      - generic [ref=e927]: .robfarlow.com
+                  - cell [ref=e1948]:
+                    - generic [ref=e930]: TXT
+                  - cell [ref=e1950]:
+                    - generic [ref=e1951]: "\"1327863e-5234-81cb-acbd-0070b4b6773d\""
+                  - cell [ref=e1952]:
+                    - generic [ref=e936]: DNS only
+                  - cell [ref=e1953]:
+                    - generic [ref=e938]: Auto
+                  - cell [ref=e1954]:
+                    - generic [ref=e940]: —
+                  - cell [ref=e1955]:
+                    - generic [ref=e942]: —
+                  - cell [ref=e1956]:
+                    - generic [ref=e944]: —
+                  - cell [ref=e1957]:
+                    - button [ref=e1958] [cursor=pointer]: Edit
+                - row [ref=e1959]:
+                  - cell [ref=e1960]:
+                    - checkbox [ref=e1961] [cursor=pointer]
+                    - checkbox [ref=e951]
+                  - cell [ref=e1962]:
+                    - button [ref=e1963] [cursor=pointer]:
+                      - img [ref=e954]
+                  - cell [ref=e956]
+                  - cell [ref=e1964]:
+                    - generic [ref=e1965]: robfarlow.com
+                  - cell [ref=e1966]:
+                    - generic [ref=e961]: TXT
+                  - cell [ref=e1968]:
+                    - generic [ref=e1969]: "\"v=spf1 ip4:66.96.128.0/18 include:websitewelcome.com ?all\""
+                  - cell [ref=e1970]:
+                    - generic [ref=e967]: DNS only
+                  - cell [ref=e1971]:
+                    - generic [ref=e969]: Auto
+                  - cell [ref=e1972]:
+                    - generic [ref=e971]: —
+                  - cell [ref=e1973]:
+                    - generic [ref=e973]: —
+                  - cell [ref=e1974]:
+                    - generic [ref=e975]: —
+                  - cell [ref=e1975]:
+                    - button [ref=e1976] [cursor=pointer]: Edit
+            - generic [ref=e983]: Showing 1-6 of 6
+      - contentinfo [ref=e984]:
+        - list [ref=e986]:
+          - listitem [ref=e987]:
+            - link [ref=e1977] [cursor=pointer]:
+              - /url: https://support.cloudflare.com
+              - text: Support
+          - listitem [ref=e989]:
+            - link [ref=e1978] [cursor=pointer]:
+              - /url: https://www.cloudflarestatus.com
+              - text: System status
+          - listitem [ref=e991]:
+            - link [ref=e1979] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/careers/
+              - text: Careers
+          - listitem [ref=e993]:
+            - link [ref=e1980] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/website-terms/
+              - text: Terms of Use
+          - listitem [ref=e995]:
+            - link [ref=e1981] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/disclosure/
+              - text: Report Security Issues
+          - listitem [ref=e997]:
+            - link [ref=e1982] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/privacypolicy/
+              - text: Privacy Policy
+          - listitem [ref=e999]:
+            - button [ref=e1983] [cursor=pointer]:
+              - img [ref=e1984]
+              - text: Your Privacy Choices
+          - listitem [ref=e1002]:
+            - generic [ref=e1003]: © 2026 Cloudflare, Inc.
+  - generic:
+    - region "Notifications"
+  - generic [ref=e1023]:
+    - generic [ref=e1024]:
+      - heading [level=3] [ref=e1985]: Enable Agent Lee access
+      - paragraph [ref=e1026]: Agent Lee needs a read-only API token to access your account.
+      - button [ref=e1986] [cursor=pointer]:
+        - text: Read more
+        - img [ref=e1030]
+    - button [ref=e1987] [cursor=pointer]: Create Token
+  - dialog "Add record" [ref=e1991]:
+    - generic [ref=e1992]:
+      - generic [ref=e1993]:
+        - heading "Add record" [level=2] [ref=e1994]
+        - button "Close" [active] [ref=e1995] [cursor=pointer]:
+          - img [ref=e1996]
+      - generic [ref=e1999]:
+        - generic [ref=e2000]:
+          - generic [ref=e2001]: "[name]"
+          - text: points to
+          - generic [ref=e2002]: "[IPv4 address]"
+          - text: and has its traffic proxied through Cloudflare.
+        - generic [ref=e2003]:
+          - generic [ref=e2005]:
+            - generic [ref=e2007]: Type
+            - generic [ref=e2009]:
+              - combobox "Type" [ref=e2010] [cursor=pointer]:
+                - generic [ref=e2011]: A
+                - img [ref=e2013]
+              - textbox [ref=e2015]: A
+          - generic [ref=e2018]:
+            - generic [ref=e2020]: Name
+            - textbox "Name" [ref=e2021]:
+              - /placeholder: Use @ for root
+          - generic [ref=e2024]:
+            - generic [ref=e2026]: IPv4 address
+            - textbox "IPv4 address" [ref=e2027]
+          - generic [ref=e2029]:
+            - generic [ref=e2030]: Proxy status
+            - generic [ref=e2033]:
+              - switch "Proxy status" [checked] [ref=e2034] [cursor=pointer]
+              - checkbox [checked] [ref=e2036]
+              - img [ref=e2037]
+              - generic [ref=e2039]: Proxied
+          - generic [ref=e2041]:
+            - generic [ref=e2043]: TTL
+            - generic [ref=e2045]:
+              - combobox "TTL" [disabled] [ref=e2046]:
+                - generic [ref=e2047]: Auto
+                - img [ref=e2049]
+              - textbox [disabled] [ref=e2051]: "1"
+        - generic [ref=e2053]:
+          - button "Record Attributes" [ref=e2054] [cursor=pointer]:
+            - img [ref=e2055]
+            - text: Record Attributes
+          - link "View documentation" [ref=e2057] [cursor=pointer]:
+            - /url: https://developers.cloudflare.com/dns/manage-dns-records/reference/record-attributes/
+            - img [ref=e2059]
+        - generic [ref=e2061]:
+          - button "Save" [disabled] [ref=e2062]
+          - button "Cancel" [ref=e2063] [cursor=pointer]
